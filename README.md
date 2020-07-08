@@ -12,6 +12,11 @@ Instructions:
 Warning:
 You may have to give access to terminal to achieve such "double-click-to-start" property. If u can not, change its extension name to ".py" instead of the current one ".command" and run all the files above with terminal(s).
 
+
+
+
+
+
 TO-DO:
 1. first, make it work under the same Lan;
 2. Finally, make it working across different network (maybe using a simple server?)
