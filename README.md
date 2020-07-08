@@ -17,6 +17,6 @@ You may have to give access to terminal to achieve such "double-click-to-start" 
 
 
 
-TO-DO:
+Future Expectations:
 1. first, make it work under the same LAN;
-2. Next, make it working across different network (maybe using a simple server?)
+2. Next, make it work across different network (maybe using a simple server?)
